@@ -28,24 +28,26 @@ See you at 42 BCN!
 
 </div>
 
-## [Shell00](https://github.com/juancumbeq/42_BCN_C_Piscine_2023/tree/main/C_Piscine_C_00) - Introduction to C
+## [Shell00](https://github.com/juancumbeq/42_BCN_C_Piscine_2023/tree/main/C_Piscine_Shell_00) - Introduction to C
 
-- [ex00: ft_putchar](0%20-%20ft_putchar/ft_putchar.c) - Print a Character
-- [ex01: ft_print_alphabet](1%20-%20ft_print_alphabet/ft_print_alphabet.c) - Print the Alphabet
-- [ex02: ft_print_reverse_alphabet](2%20-%20ft_print_reverse_alphabet/ft_print_reverse_alphabet.c) - Print the Alphabet in Reverse
-- [ex03: ft_print_numbers](3%20-%20ft_print_numbers/ft_print_numbers.c) - Print the Numbers 0 to 9
-- [ex04: ft_is_negative](4%20-%20ft_is_negative/ft_is_negative.c) - Print the Numbers 9 to 0 in Reverse
-- [ex05: ft_print_comb](5%20-%20ft_print_comb/ft_print_comb.c) - Combine Numbers into Different Double Combinations
--
+- [ex00: z]() - 
+- [ex01: testShell00]() - 
+- [ex02: exo2.tar]() - 
+- [ex03: id_rsa_pub]() - 
+- [ex04: midLS]() - 
+- [ex05: git_commit.sh]() - 
+- [ex06: git_ignore.sh]() - 
+- [ex07: b]() - 
+- [ex08: clean]() - 
 
-## [Shell00](https://github.com/juancumbeq/42_BCN_C_Piscine_2023/tree/main/C_Piscine_C_00) - Introduction to C
+## [Shell01](https://github.com/juancumbeq/42_BCN_C_Piscine_2023/tree/main/C_Piscine_Shell_01) - Introduction to C
 
-- [ex00: ft_putchar](/ex00%20-%20ft_putchar/ft_putchar.c) - Print a Character
-- [ex01: ft_print_alphabet](/ex01%20-%20ft_print_alphabet/ft_print_alphabet.c) - Print the Alphabet
-- [ex02: ft_print_reverse_alphabet](/ex02%20-%20ft_print_reverse_alphabet/ft_print_reverse_alphabet.c) - Print the Alphabet in Reverse
-- [ex03: ft_print_numbers](/ex03%20-%20ft_print_numbers/ft_print_numbers.c) - Print the Numbers 0 to 9
-- [ex04: ft_is_negative](/ex04%20-%20ft_is_negative/ft_is_negative.c) - Print the Numbers 9 to 0 in Reverse
-- [ex05: ft_print_comb](/ex05%20-%20ft_print_comb/ft_print_comb.c) - Combine Numbers into Different Double Combinations
+- [ex00: ]() - Print a Character
+- [ex00: ]() - Print a Character
+- [ex00: ]() - Print a Character
+- [ex00: ]() - Print a Character
+- [ex00: ]() - Print a Character
+- [ex00: ]() - Print a Character
 
 ## [C00](https://github.com/juancumbeq/42_BCN_C_Piscine_2023/tree/main/C_Piscine_C_00) - Introduction to C
 
@@ -57,7 +59,7 @@ See you at 42 BCN!
 - [ex05: ft_print_comb](https://github.com/juancumbeq/42_BCN_C_Piscine_2023/blob/main/C_Piscine_C_00/ex05/ft_print_comb.c) - Combine Numbers into Different Double Combinations
 - [ex06: ft_print_comb2](https://github.com/juancumbeq/42_BCN_C_Piscine_2023/blob/main/C_Piscine_C_00/ex06/ft_print_comb2.c) - 
 - [ex07: ft_putnbr](https://github.com/juancumbeq/42_BCN_C_Piscine_2023/blob/main/C_Piscine_C_00/ex07/ft_putnbr.c) - 
-- [ex08: ft_print_combn - not finished](https://github.com/juancumbeq/42_BCN_C_Piscine_2023/blob/main/C_Piscine_C_00/ex08/ft_print_combn.c) - 
+- [ex08: ft_print_combn (not finished)](https://github.com/juancumbeq/42_BCN_C_Piscine_2023/blob/main/C_Piscine_C_00/ex08/ft_print_combn.c) - 
 
 ## [C01](https://github.com/juancumbeq/42_BCN_C_Piscine_2023/tree/main/C_Piscine_C_01) - Pointers and If Statements
 
@@ -73,25 +75,31 @@ See you at 42 BCN!
 
 ## [C02](https://github.com/juancumbeq/42_BCN_C_Piscine_2023/tree/main/C_Piscine_C_02) - Introduction To Strings and Arrays
 
-- [ex00: ft_strcpy](https://github.com/pasqualerossi/42-Piscine/blob/main/C00%20-%20C07%20Piscine%20Projects/c02/ex00%20-%20ft_strcpy/ft_strcpy.c) - Copy a String
-- [ex01: ft_strncpy](https://github.com/pasqualerossi/42-Piscine/blob/main/C00%20-%20C07%20Piscine%20Projects/c02/ex01%20-%20ft_strncpy/ft_strncpy.c) - String Copy With an Unsigned Int
-- [ex02: ft_str_is_alpha](https://github.com/pasqualerossi/42-Piscine/blob/main/C00%20-%20C07%20Piscine%20Projects/c02/ex02%20-%20ft_str_is_alpha/ft_str_is_alpha.c) - Conditional Statements using Arrays
-- [ex03: ft_str_is_numeric](https://github.com/pasqualerossi/42-Piscine/blob/main/C00%20-%20C07%20Piscine%20Projects/c02/ex03%20-%20ft_str_is_numeric/ft_str_is_numeric.c) - Check a String is Numbers
-- [ex04: ft_str_is_lowercase](https://github.com/pasqualerossi/42-Piscine/blob/main/C00%20-%20C07%20Piscine%20Projects/c02/ex04%20-%20ft_str_is_lowercase/ft_str_is_lowercase.c) - Check a String is Lowercase
-- [ex05: ft_str_is_uppercase](https://github.com/pasqualerossi/42-Piscine/blob/main/C00%20-%20C07%20Piscine%20Projects/c02/ex05%20-%20ft_str_is_uppercase/ft_str_is_uppercase.c) - Check a String is Uppercase
-- [ex06: ft_str_is_printable](https://github.com/pasqualerossi/42-Piscine/blob/main/C00%20-%20C07%20Piscine%20Projects/c02/ex06%20-%20ft_str_is_printable/ft_str_is_printable.c) - Check a String is Printable
-- [ex07: ft_strupcase](https://github.com/pasqualerossi/42-Piscine/blob/main/C00%20-%20C07%20Piscine%20Projects/c02/ex07%20-%20ft_strupcase/ft_strupcase.c) - Make a String Uppercase
-- [ex08: ft_strlowcase](https://github.com/pasqualerossi/42-Piscine/blob/main/C00%20-%20C07%20Piscine%20Projects/c02/ex08%20-%20ft_strlowcase/ft_strlowcase.c) - Make a String Lowercase
+- [ex00: ft_strcpy](https://github.com/juancumbeq/42_BCN_C_Piscine_2023/blob/main/C_Piscine_C_02/ex00/ft_strcpy.c) - Copy a String
+- [ex01: ft_strncpy](https://github.com/juancumbeq/42_BCN_C_Piscine_2023/blob/main/C_Piscine_C_02/ex01/ft_strncpy.c) - String Copy With an Unsigned Int
+- [ex02: ft_str_is_alpha](https://github.com/juancumbeq/42_BCN_C_Piscine_2023/blob/main/C_Piscine_C_02/ex02/ft_str_is_alpha.c) - Conditional Statements using Arrays
+- [ex03: ft_str_is_numeric](https://github.com/juancumbeq/42_BCN_C_Piscine_2023/blob/main/C_Piscine_C_02/ex03/ft_str_is_numeric.c) - Check a String is Numbers
+- [ex04: ft_str_is_lowercase](https://github.com/juancumbeq/42_BCN_C_Piscine_2023/blob/main/C_Piscine_C_02/ex04/ft_str_is_lowercase.c) - Check a String is Lowercase
+- [ex05: ft_str_is_uppercase](https://github.com/juancumbeq/42_BCN_C_Piscine_2023/blob/main/C_Piscine_C_02/ex05/ft_str_is_uppercase.c) - Check a String is Uppercase
+- [ex06: ft_str_is_printable](https://github.com/juancumbeq/42_BCN_C_Piscine_2023/blob/main/C_Piscine_C_02/ex06/ft_str_is_printable.c) - Check a String is Printable
+- [ex07: ft_strupcase](https://github.com/juancumbeq/42_BCN_C_Piscine_2023/blob/main/C_Piscine_C_02/ex07/ft_strupcase.c) - Make a String Uppercase
+- [ex08: ft_strlowcase](https://github.com/juancumbeq/42_BCN_C_Piscine_2023/blob/main/C_Piscine_C_02/ex08/ft_strlowcase.c) - 
+- [ex09: ft_strcapitalize](https://github.com/juancumbeq/42_BCN_C_Piscine_2023/blob/main/C_Piscine_C_02/ex09/ft_strcapitalize.c) - 
+- [ex10: ft_strlcpy](https://github.com/juancumbeq/42_BCN_C_Piscine_2023/blob/main/C_Piscine_C_02/ex10/ft_strlcpy.c) - 
+- [ex11: ft_putstr_non_printable](https://github.com/juancumbeq/42_BCN_C_Piscine_2023/blob/main/C_Piscine_C_02/ex11/ft_putstr_non_printable.c) - 
 
 ## [C03](https://github.com/juancumbeq/42_BCN_C_Piscine_2023/tree/main/C_Piscine_C_03) - String Functions, Manipulation and Concatanation
 
-- [ex00: ft_strcmp](https://github.com/pasqualerossi/42-Piscine/tree/main/C00%20-%20C07%20Piscine%20Projects/c03/ex00%20-%20ft_strcmp/ft_strcmp.c) - Compare Two Strings, Returning a Value
-- [ex01: ft_strncmp](https://github.com/pasqualerossi/42-Piscine/blob/main/C00%20-%20C07%20Piscine%20Projects/c03/ex01%20-%20ft_strncmp/ft_strncmp.c) - Compare Two Strings, Returning a Value, Using Unsigned Ints
-- [ex02: ft_strcat](https://github.com/pasqualerossi/42-Piscine/blob/main/C00%20-%20C07%20Piscine%20Projects/c03/ex02%20-%20ft_strcat/ft_strcat.c) - Concatanate Two Strings
-- [ex03: ft_strncat](https://github.com/pasqualerossi/42-Piscine/blob/main/C00%20-%20C07%20Piscine%20Projects/c03/ex03%20-%20ft_strncat/ft_strncat.c) - Concatanate Two Strings, Using Unsigned Ints
+- [ex00: ft_strcmp](https://github.com/juancumbeq/42_BCN_C_Piscine_2023/blob/main/C_Piscine_C_03/ex00/ft_strcmp.c) - Compare Two Strings, Returning a Value
+- [ex01: ft_strncmp](https://github.com/juancumbeq/42_BCN_C_Piscine_2023/blob/main/C_Piscine_C_03/ex01/ft_strncmp.c) - Compare Two Strings, Returning a Value, Using Unsigned Ints
+- [ex02: ft_strcat](https://github.com/juancumbeq/42_BCN_C_Piscine_2023/blob/main/C_Piscine_C_03/ex02/ft_strcat.c) - Concatanate Two Strings
+- [ex03: ft_strncat](https://github.com/juancumbeq/42_BCN_C_Piscine_2023/blob/main/C_Piscine_C_03/ex03/ft_strncat.c) - Concatanate Two Strings, Using Unsigned Ints
+- [ex04: ft_strstr](https://github.com/juancumbeq/42_BCN_C_Piscine_2023/blob/main/C_Piscine_C_03/ex04/ft_strncat.c) - 
+- [ex05: ft_strlcat](https://github.com/juancumbeq/42_BCN_C_Piscine_2023/blob/main/C_Piscine_C_03/ex05/ft_strncat.c) - 
 
 ## [C04](https://github.com/juancumbeq/42_BCN_C_Piscine_2023/tree/main/C_Piscine_C_04) - Analysing String Qualities and Manipulating Ints
 
-- [ex00: ft_strlen](https://github.com/pasqualerossi/42-Piscine/blob/main/C00%20-%20C07%20Piscine%20Projects/c04/ex00%20-%20ft_strlen/ft_strlen.c) - Get the Length of a String
-- [ex01: ft_putstr](https://github.com/pasqualerossi/42-Piscine/blob/main/C00%20-%20C07%20Piscine%20Projects/c04/ex01%20-%20ft_putstr/ft_putstr.c) - Print a String
-- [ex02: ft_putnbr](https://github.com/pasqualerossi/42-Piscine/blob/main/C00%20-%20C07%20Piscine%20Projects/c04/ex02%20-%20ft_putnbr/ft_putnbr.c) - Print Any Number Within The Max / Min Int
+- [ex00: ft_strlen](https://github.com/juancumbeq/42_BCN_C_Piscine_2023/blob/main/C_Piscine_C_04/ex00/ft_strlen.c) - Get the Length of a String
+- [ex01: ft_putstr](https://github.com/juancumbeq/42_BCN_C_Piscine_2023/blob/main/C_Piscine_C_04/ex01/ft_putstr.c) - Print a String
+- [ex02: ft_putnbr](https://github.com/juancumbeq/42_BCN_C_Piscine_2023/blob/main/C_Piscine_C_04/ex02/ft_putnbr.c) - Print Any Number Within The Max / Min Int
+- [ex03: ft_atoi (not finished)](https://github.com/juancumbeq/42_BCN_C_Piscine_2023/blob/main/C_Piscine_C_04/ex03/ft_putnbr.c) - 
