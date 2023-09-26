@@ -1,0 +1,23 @@
+*.DS_Store
+*.pdf
+jcumbe-q.code-workspace
+Debugger.png
+
+# FOLDERS
+Links
+Other Subjects
+C_Rush_01
+
+# PDFs
+C_Piscine_Shell_00.pdf
+C_Piscine_Sehll_01.pdf
+C_Piscine_C_00.pdf
+C_Piscine_C_01.pdf
+C_Piscine_C_02.pdf
+C_Piscine_C_03.pdf
+C_Piscine_C_04.pdf
+C_Rush_00.pdf
+*.pdf
+
+# Other
+42_BCN_C_Piscine_2023_Repo.zip
