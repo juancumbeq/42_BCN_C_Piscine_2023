@@ -1,4 +1,4 @@
-#42 BARCELONA - C Piscine 2023
+# 42 BARCELONA - C Piscine 2023
 
 In August 2023, I joined 42 Barcelona. During this period, I participated in an intensive "Bootcamp" where I had the opportunity to learn the fundamentals of programming, specifically using C.
 
