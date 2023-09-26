@@ -2,7 +2,11 @@
   <img src="https://media.giphy.com/media/Oe5oxorcv6KAcRK0bq/giphy.gif" width="250"/>
 </div>
 
+<div align="center">
+
 # [School 42 Barcelona](https://www.42barcelona.com/es) - C Piscine 2023 (August)
+
+</div>
 
 In August 2023, I joined 42 Barcelona. During this period, I participated in an intensive "Bootcamp" where I had the opportunity to learn the fundamentals of programming, specifically using C.
 
@@ -17,6 +21,12 @@ Before these 26 days, I already had experience in programming with JavaScript an
 Honestly, I recommend that everyone should try this "Bootcamp." KEEP LEARNING!
 
 See you at 42 BCN!
+
+<div align="center">
+
+# Completed Exercises
+
+</div>
 
 ## [C00](https://github.com/pasqualerossi/42-Piscine/tree/main/C00%20-%20C07%20Piscine%20Projects/c00) - Introduction to C
 
