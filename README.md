@@ -1,4 +1,8 @@
-# 42 BARCELONA - C Piscine 2023
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/Oe5oxorcv6KAcRK0bq/giphy.gif" width="250"/>
+</div>
+
+# [School 42 Barcelona](https://www.42barcelona.com/) - C Piscine 2023 (August)
 
 In August 2023, I joined 42 Barcelona. During this period, I participated in an intensive "Bootcamp" where I had the opportunity to learn the fundamentals of programming, specifically using C.
 
