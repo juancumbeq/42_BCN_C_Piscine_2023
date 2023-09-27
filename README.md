@@ -30,26 +30,25 @@ See you at 42 BCN!
 
 ## [Shell00](https://github.com/juancumbeq/42_BCN_C_Piscine_2023/tree/main/C_Piscine_Shell_00) - Introduction to C
 
-- [ex00: z]() -
-- [ex01: testShell00]() -
-- [ex02: exo2.tar]() -
-- [ex03: id_rsa_pub]() -
-- [ex04: midLS]() -
-- [ex05: git_commit.sh]() -
-- [ex06: git_ignore.sh]() -
-- [ex07: b]() -
-- [ex08: clean]() -
+- [ex00: z](https://github.com/juancumbeq/42_BCN_C_Piscine_2023/blob/main/C_Piscine_Shell_00/ex00/z) - Show a "Z" using "cat"
+- [ex01: testShell00](https://github.com/juancumbeq/42_BCN_C_Piscine_2023/blob/main/C_Piscine_Shell_00/ex01/testShell00) - Show the following: -r--r-xr-x 1 XX XX 40 Jun 1 23:42 testShell00, using the "ls -l" command
+- [ex02: exo2.tar](https://github.com/juancumbeq/42_BCN_C_Piscine_2023/blob/main/C_Piscine_Shell_00/ex02/exo2.tar) - Modify the file permisions
+- [ex03: id_rsa_pub](https://github.com/juancumbeq/42_BCN_C_Piscine_2023/blob/main/C_Piscine_Shell_00/ex03/id_rsa_pub) - Create your own SSH key
+- [ex04: midLS](https://github.com/juancumbeq/42_BCN_C_Piscine_2023/blob/main/C_Piscine_Shell_00/ex04/midLS) - Create a file with a command inside
+- [ex05: git_commit.sh](https://github.com/juancumbeq/42_BCN_C_Piscine_2023/blob/main/C_Piscine_Shell_00/ex05/git_commit.sh) - Script for showing the last 5 commits
+- [ex06: git_ignore.sh](https://github.com/juancumbeq/42_BCN_C_Piscine_2023/blob/main/C_Piscine_Shell_00/ex06/git_ignore.sh) - Script for showing the ignored files by Git
+- [ex07: b](https://github.com/juancumbeq/42_BCN_C_Piscine_2023/blob/main/C_Piscine_Shell_00/ex07/b) - Use of "diff"
+- [ex08: clean](https://github.com/juancumbeq/42_BCN_C_Piscine_2023/blob/main/C_Piscine_Shell_00/ex08/clean) - Search and destroy specific files
 
 ## [Shell01](https://github.com/juancumbeq/42_BCN_C_Piscine_2023/tree/main/C_Piscine_Shell_01) - Introduction to C
 
-- [ex00: ]() - Print a Character
-- [ex01: ]() - Print a Character
-- [ex02: ]() - Print a Character
-- [ex03: ]() - Print a Character
-- [ex04: ]() - Print a Character
-- [ex05: ]() - Print a Character
-- [ex06: ]() - Print a Character
-- [ex07: ]() - Print a Character
+- [ex01: print_groups.sh](https://github.com/juancumbeq/42_BCN_C_Piscine_2023/blob/main/C_Piscine_Shell_01/ex01/print_groups.sh) - Show the user login groups
+- [ex02: find_sh.sh](https://github.com/juancumbeq/42_BCN_C_Piscine_2023/blob/main/C_Piscine_Shell_01/ex02/find_sh.sh) - Find all of the ".sh" files
+- [ex03: count_files.sh](https://github.com/juancumbeq/42_BCN_C_Piscine_2023/blob/main/C_Piscine_Shell_01/ex03/count_files.sh) - Count all of the files in the current repo
+- [ex04: MAC.sh](https://github.com/juancumbeq/42_BCN_C_Piscine_2023/blob/main/C_Piscine_Shell_01/ex04/MAC.sh) - Show the MAC addresses of your computer
+- [ex05: "\?$*'MaRViN'*$?\"](https://github.com/juancumbeq/42_BCN_C_Piscine_2023/blob/main/C_Piscine_Shell_01/ex05/"\?$*'MaRViN'*$?\") - Create the "\?$*'MaRViN'*$?\" file
+- [ex06: skip.sh](https://github.com/juancumbeq/42_BCN_C_Piscine_2023/blob/main/C_Piscine_Shell_01/ex06/skip.sh) - Customize a "ls -l" command
+- [ex07: r_dwssap.sh](https://github.com/juancumbeq/42_BCN_C_Piscine_2023/blob/main/C_Piscine_Shell_01/ex07/r_dwssap.sh) - Create a command equal to cat/etc/passwd
 
 ## [C00](https://github.com/juancumbeq/42_BCN_C_Piscine_2023/tree/main/C_Piscine_C_00) - Introduction to C
 
