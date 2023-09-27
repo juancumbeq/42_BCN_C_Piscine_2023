@@ -105,9 +105,13 @@ See you at 42 BCN!
 - [ex02: ft_putnbr](https://github.com/juancumbeq/42_BCN_C_Piscine_2023/blob/main/C_Piscine_C_04/ex02/ft_putnbr.c) - Print Any Number Within The Max / Min Int
 - [ex03: ft_atoi (not finished)](https://github.com/juancumbeq/42_BCN_C_Piscine_2023/blob/main/C_Piscine_C_04/ex03/ft_atoi.c) - Convert a String into an Integer
 
+## [Rush00](https://github.com/juancumbeq/42_BCN_C_Piscine_2023/tree/main/C_Rush_00) - Using of While Loops and Printing Characters
+
+- [files](https://github.com/juancumbeq/42_BCN_C_Piscine_2023/blob/main/C_Rush_00/files/) - Print Characters Following a Path
+
 <div align="center">
 
-# Skills developed at C Piscine
+# Skills developed
 
 </div>
 
